@@ -85,11 +85,9 @@ motto     : "Failing is part of learning"
 ##  Featured Projects
 
 <p align="center">
-  <a href="https://github.com/wanssloveeveryone/REPO-NAME-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanssloveeveryone&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/wanssloveeveryone/REPO-NAME-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanssloveeveryone&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/wanssloveeveryone/HomeLab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanssloveeveryone&repo=HomeLab&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
