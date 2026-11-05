@@ -1,6 +1,6 @@
 <!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Tirta%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Server%20%7C%20Network%20%7C%20Linux%20%7C%20Automation&descAlignY=58&descSize=20" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Tirta%20&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Server%20%7C%20Network%20%7C%20Linux%20%7C%20Automation&descAlignY=58&descSize=20" alt="banner" />
 </p>
 
 <!-- ================= TYPING ANIMATION ================= -->
@@ -20,25 +20,25 @@
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 ```yaml
 name      : Tirta
 focus     : Servers, Networking, and Linux
 hobbies   : Tinkering with servers & learning new things
-currently : Learning MikroTik RouterOS 📡
+currently : Learning MikroTik RouterOS 
 motto     : "Failing is part of learning"
 ```
 
-- 🔭 Currently working on **server & networking projects**
-- 🌱 Currently learning **MikroTik RouterOS & Winbox**
-- 🖥️ I love configuring and building my **own servers**
-- 💬 Ask me about **Linux, Docker, and server configuration**
-- ⚡ Fun fact: _when something breaks, I enjoy hunting down the cause_ 😄
+-  Currently working on **server & networking projects**
+-  Currently learning **MikroTik RouterOS & Winbox**
+-  I love configuring and building my **own servers**
+-  Ask me about **Linux, Docker, and server configuration**
+-  Fun fact: _when something breaks, I enjoy hunting down the cause_ 😄
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,linux,docker,kubernetes,python,mysql,html,css,tailwind,git,github,vscode&perline=6" alt="Tech stack" />
@@ -57,7 +57,7 @@ motto     : "Failing is part of learning"
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=wanssloveeveryone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
@@ -74,7 +74,7 @@ motto     : "Failing is part of learning"
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wanssloveeveryone&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
@@ -82,7 +82,7 @@ motto     : "Failing is part of learning"
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 <p align="center">
   <a href="https://github.com/wanssloveeveryone/REPO-NAME-1">
@@ -93,11 +93,11 @@ motto     : "Failing is part of learning"
   </a>
 </p>
 
-> 💡 Replace `REPO-NAME-1` and `REPO-NAME-2` with the names of the repositories you want to showcase.
+>  Replace `REPO-NAME-1` and `REPO-NAME-2` with the names of the repositories you want to showcase.
 
 ---
 
-## 🎯 Learning Roadmap
+##  Learning Roadmap
 
 | Topic | Progress |
 |-------|----------|
@@ -109,7 +109,7 @@ motto     : "Failing is part of learning"
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/tirta%20adi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -120,7 +120,7 @@ motto     : "Failing is part of learning"
 
 ---
 
-## 💬 Quote of the Day
+##  Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote" />
