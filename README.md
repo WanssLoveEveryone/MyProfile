@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=wanssloveeveryone&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/wanssloveeveryone?label=Followers&style=for-the-badge&logo=github&color=8957e5" alt="Followers" />
   <img src="https://img.shields.io/github/stars/wanssloveeveryone?label=Stars&style=for-the-badge&logo=github&color=f1c40f" alt="Stars" />
-  <img src="https://img.shields.io/github/last-commit/wanssloveeveryone/wanssloveeveryone?style=for-the-badge&logo=git&color=2ecc71" alt="Last commit" />
+  <img src="https://img.shields.io/github/last-commit/wanssloveeveryone/HomeLab?style=for-the-badge&logo=git&color=2ecc71" alt="Last commit" />
 </p>
 
 ---
