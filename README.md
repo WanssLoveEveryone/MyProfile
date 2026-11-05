@@ -93,7 +93,7 @@ motto     : "Failing is part of learning"
   </a>
 </p>
 
->  Replace `REPO-NAME-1` and `REPO-NAME-2` with the names of the repositories you want to showcase.
+>  - [**Home-Lab-Project**](https://github.com/wanssloveeveryone/HomeLab) ![Stars](https://img.shields.io/github/stars/wanssloveeveryone/HomeLab?style=social)
 
 ---
 
