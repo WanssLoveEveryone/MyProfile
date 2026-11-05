@@ -26,7 +26,7 @@
 name      : Tirta
 focus     : Servers, Networking, and Linux
 hobbies   : Tinkering with servers & learning new things
-currently : Learning MikroTik RouterOS 
+currently : Learning MikroTik RouterOS
 motto     : "Failing is part of learning"
 ```
 
@@ -59,39 +59,20 @@ motto     : "Failing is part of learning"
 
 ##  GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wanssloveeveryone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanssloveeveryone&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+<p align="center"> <img src="https://img.shields.io/github/followers/wanssloveeveryone?label=Followers&style=for-the-badge&logo=github&color=8957e5" alt="Followers" /> <img src="https://img.shields.io/github/stars/wanssloveeveryone?label=Stars&style=for-the-badge&logo=github&color=f1c40f" alt="Stars" /> <img src="https://img.shields.io/badge/Public%20Repos-View-2ecc71?style=for-the-badge&logo=github" alt="Repos" /> </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wanssloveeveryone&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wanssloveeveryone&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-</p>
 
 ---
 
 ##  Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wanssloveeveryone&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
-</p>
+<p align="center"> <img src="https://ghchart.rshah.org/00D9FF/wanssloveeveryone" alt="Contribution chart" /> </p>
 
 ---
 
 ##  Featured Projects
 
-<p align="center">
-  </a>
-  <a href="https://github.com/wanssloveeveryone/HomeLab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanssloveeveryone&repo=HomeLab&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
->  - [**Home-Lab-Project**](https://github.com/wanssloveeveryone/HomeLab) ![Stars](https://img.shields.io/github/stars/wanssloveeveryone/HomeLab?style=social)
+<table align="center"> <tr> <td> <h3> <a href="https://github.com/wanssloveeveryone/HomeLab">Home-Lab-Project</a></h3> <p>My personal home lab: self-hosted servers, networking, and experiments.</p> <p> <a href="https://github.com/wanssloveeveryone/HomeLab"><img src="https://img.shields.io/github/stars/wanssloveeveryone/HomeLab?style=for-the-badge&logo=github&color=f1c40f" alt="Stars" /></a> <a href="https://github.com/wanssloveeveryone/HomeLab/fork"><img src="https://img.shields.io/github/forks/wanssloveeveryone/HomeLab?style=for-the-badge&logo=github&color=8957e5" alt="Forks" /></a> <img src="https://img.shields.io/github/last-commit/wanssloveeveryone/HomeLab?style=for-the-badge&logo=git&color=2ecc71" alt="Last commit" /> <img src="https://img.shields.io/github/languages/top/wanssloveeveryone/HomeLab?style=for-the-badge" alt="Top language" /> </p> </td> </tr> <tr> <td> <h3> <a href="https://github.com/WanssLoveEveryone/HomeLab/blob/main/docs/amlogic-s905x-DDR-ENC-error.md">How I Unbricked My HG680P (DDR_ENC.USB Error)</a></h3> <p>A step-by-step write-up on recovering a bricked HG680P STB after a failed <code>armbian-install</code>, using a USB TTL adapter and U-Boot.</p> <p> <img src="https://img.shields.io/badge/Amlogic-S905X-0A66C2?style=for-the-badge" alt="Amlogic S905X" /> <img src="https://img.shields.io/badge/Armbian-Ubuntu%20Noble-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Armbian" /> <img src="https://img.shields.io/badge/U--Boot-UART%20Recovery-2ecc71?style=for-the-badge" alt="U-Boot" /> <img src="https://img.shields.io/badge/Type-Troubleshooting%20Guide-f1c40f?style=for-the-badge" alt="Guide" /> </p> </td> </tr> </table>
 
 ---
 
