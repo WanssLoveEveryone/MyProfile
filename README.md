@@ -20,21 +20,21 @@
 
 ---
 
-## 🙋‍♂️ Tentang Saya
+## 🙋‍♂️ About Me
 
 ```yaml
-nama      : Tirta
-fokus     : Server, Jaringan, dan Linux
-hobi      : Ngoprek server & belajar hal baru
-sedang    : Belajar MikroTik RouterOS 📡
-motto     : "Gagal itu bagian dari proses belajar"
+name      : Tirta
+focus     : Servers, Networking, and Linux
+hobbies   : Tinkering with servers & learning new things
+currently : Learning MikroTik RouterOS 📡
+motto     : "Failing is part of learning"
 ```
 
-- 🔭 Sedang mengerjakan **proyek server & jaringan**
-- 🌱 Sedang belajar **MikroTik RouterOS & Winbox**
-- 🖥️ Suka mengkonfigurasi dan membangun **server sendiri**
-- 💬 Tanya saya soal **Linux, Docker, dan konfigurasi server**
-- ⚡ Fun fact: _kalau ada yang error, saya senang mencari penyebabnya_ 😄
+- 🔭 Currently working on **server & networking projects**
+- 🌱 Currently learning **MikroTik RouterOS & Winbox**
+- 🖥️ I love configuring and building my **own servers**
+- 💬 Ask me about **Linux, Docker, and server configuration**
+- ⚡ Fun fact: _when something breaks, I enjoy hunting down the cause_ 😄
 
 ---
 
@@ -74,7 +74,7 @@ motto     : "Gagal itu bagian dari proses belajar"
 
 ---
 
-## 📈 Aktivitas Kontribusi
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wanssloveeveryone&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
@@ -82,26 +82,26 @@ motto     : "Gagal itu bagian dari proses belajar"
 
 ---
 
-## 🔥 Proyek Unggulan
+## 🔥 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/wanssloveeveryone/NAMA-REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanssloveeveryone&repo=NAMA-REPO-1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/wanssloveeveryone/REPO-NAME-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanssloveeveryone&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/wanssloveeveryone/NAMA-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanssloveeveryone&repo=NAMA-REPO-2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/wanssloveeveryone/REPO-NAME-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanssloveeveryone&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
-> 💡 Ganti `NAMA-REPO-1` dan `NAMA-REPO-2` dengan nama repository kamu yang mau ditampilkan.
+> 💡 Replace `REPO-NAME-1` and `REPO-NAME-2` with the names of the repositories you want to showcase.
 
 ---
 
-## 🎯 Roadmap Belajar
+## 🎯 Learning Roadmap
 
-| Topik | Progress |
+| Topic | Progress |
 |-------|----------|
-| 🐧 Linux & Server | ![](https://geps.dev/progress/80) |
+| 🐧 Linux & Servers | ![](https://geps.dev/progress/80) |
 | 🐳 Docker | ![](https://geps.dev/progress/60) |
 | 📡 MikroTik RouterOS | ![](https://geps.dev/progress/40) |
 | ☸️ Kubernetes | ![](https://geps.dev/progress/30) |
